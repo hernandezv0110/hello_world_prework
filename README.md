@@ -3,9 +3,7 @@
 This is my first Github repository for CodePath's hello world prework project. This app includes textLabels, textButtons, textFields. and touch gestures that combine to create an intuitive experience. The textLabel includes that default "Hello Message" and the textField allows for the text in the textLabel to change using the "change text" button. The "change text color" button changes the text of the label, while the "change view color" changes the color of the view. The touch gesture resets the view to the original view.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/OfFd9Xb.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
